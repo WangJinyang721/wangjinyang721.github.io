@@ -1,22 +1,22 @@
-title: Sen Li's Homepage
-page-top-title: Sen Li
-top-section-bg-text: Data Science
+title: Jinyang Wang's Homepage
+page-top-title: Jinyang Wang
+top-section-bg-text: I and You
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+copyright-text: '&copy; Jinyang Wang 2026. All Rights Reserved.'
 github-link:
   text: Github
-  href: https://github.com/senli1073
+  href: https://github.com/WangJinyang721
 license-link:
   text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+  href: https://github.com/senli1073/WangJinyang721.github.io/blob/main/LICENSE
 sections:
   - id: home
     nav: HOME
-    title: Sen Li
+    title: Jinyang Wang
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
