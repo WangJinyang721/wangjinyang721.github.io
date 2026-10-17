@@ -17,7 +17,6 @@ sections:
   - id: home
     nav: HOME
     title: Jinyang Wang
-    href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
     title: PUBLICATIONS
