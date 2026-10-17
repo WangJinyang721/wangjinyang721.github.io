@@ -1,9 +1,9 @@
 title: Jinyang Wang's Homepage
 page-top-title: Jinyang Wang
 top-section-bg-text: I and You
-backgrounds:
-  - static/assets/background/background_0.jpeg
-  - static/assets/background/background_1.jpeg
+#backgrounds:
+#  - static/assets/background/background_0.jpeg
+#  - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
 copyright-text: '&copy; Jinyang Wang 2026. All Rights Reserved.'
